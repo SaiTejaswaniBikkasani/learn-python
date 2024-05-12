@@ -27,11 +27,12 @@ This book can be consumed in 3 ways:
 Table of Contents
 =================
 
-* [Introduction](#introduction){: style="text-decoration: none;"}
-   * [Introduction to Programming Languages](#introduction-to-programming-languages){: style="text-decoration: none;"}
-   * [Introduction to Python](#introduction-to-python){: style="text-decoration: none;"}
-   * [Advantages of Python](#advantages-of-python){: style="text-decoration: none;"}
-   * [Installing Python in Windows](#installing-python-in-windows){: style="text-decoration: none;"}
+* [Introduction](#introduction)
+*  <a href="#introduction-to-programming-languages" style="text-decoration: none;">Introduction to Programming Languages</a>
+   * [Introduction to Programming Languages](#introduction-to-programming-languages)
+   * [Introduction to Python](#introduction-to-python)
+   * [Advantages of Python](#advantages-of-python)
+   * [Installing Python in Windows](#installing-python-in-windows)
    * [Installing Python in macOS (Apple)](#installing-python-in-macos-apple)
    * [Execution Modes](#execution-modes)
    * [Interactive Mode of Execution](#interactive-mode-of-execution)
